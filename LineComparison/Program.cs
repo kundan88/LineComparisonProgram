@@ -5,7 +5,7 @@ namespace LineComparison
     {
         public static void Main(string[] args)
         {
-            Program.DisplayMsg();
+            Program.EqualityOfTwoLine();
         }
     }
 }
